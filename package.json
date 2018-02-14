@@ -1,0 +1,23 @@
+{
+  "name": "node-basic",
+  "version": "1.0.0",
+  "description": "a project to display basic node features",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fhirt/node-basic.git"
+  },
+  "author": "Fabio Hirt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fhirt/node-basic/issues"
+  },
+  "homepage": "https://github.com/fhirt/node-basic#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.14.12"
+  }
+}
