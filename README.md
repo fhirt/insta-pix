@@ -4,3 +4,12 @@ This basic node app displays a users recent instagram pictures. It is based on a
 2. use the instagram-node package to access the instagram developer API
 3. use the EJS templating engine
 4. use the dotenv package to hide a secret access token
+
+
+## technologies and tools used
+- node.js
+- html
+- ejs
+- instagram-api
+- github
+- atom
